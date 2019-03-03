@@ -6,12 +6,17 @@ Soulcalibur II,GameCube,Project Soul
 The Legend of Zelda: Collector's Edition,GameCube,Nintendo Software Technology Corporation
 The Legend of Zelda: The Wind Waker,GameCube,Nintendo EAD
 The Legend of Zelda: Twilight Princess,GameCube,"Nintendo EAD, Imagica Digitalscape Co., Ltd., SRD Co. Ltd."
+Animal Crossing: New Leaf,Nintendo 3DS,"Nintendo EAD, SRD Co. Ltd., Monolith Software, Inc., Eighting Co., Ltd."
 Fire Emblem Fates,Nintendo 3DS,"Intelligent Systems Co., Ltd., Nintendo SPD Group No.2"
 Fire Emblem: Awakening,Nintendo 3DS,"Intelligent Systems Co., Ltd., 8-4, Ltd., Nintendo SPD Group No.2"
 Kirby: Planet Robobot,Nintendo 3DS,"HAL Laboratory, Inc."
+Monster Hunter 3 Ultimate,Nintendo 3DS,"Capcom, 8-4, Ltd., Eighting Co., Ltd."
 Pokemon Omega Ruby/Alpha Sapphire,Nintendo 3DS,"Game Freak, Inc."
 Pokemon Ultra Sun/Ultra Moon,Nintendo 3DS,"Game Freak, Inc."
+Pokemon X/Y,Nintendo 3DS,"Game Freak, Inc."
+Shin Megami Tensei IV,Nintendo 3DS,"Atlus Co., Ltd."
 The Legend of Zelda: A Link Between Worlds,Nintendo 3DS,"Nintendo EAD, Monolith Software, Inc., SRD Co. Ltd."
+Pokemon Red/Blue,Nintendo 3DS eShop,"Game Freak, Inc., Creatures, Inc."
 Apollo Justice: Ace Attorney,Nintendo DS,Capcom
 Elite Beat Agents,Nintendo DS,"iNiS Corp., Nintendo SPD Group No.4"
 New Super Mario Bros.,Nintendo DS,Nintendo EAD
@@ -25,19 +30,28 @@ The Legend of Zelda: Phantom Hourglass,Nintendo DS,"Nintendo EAD, SRD Co. Ltd., 
 The World Ends with You,Nintendo DS,"Square Enix, Jupiter Corp., h.a.n.d. Inc."
 Bayonetta,Nintendo Switch,"PlatinumGames, Bee Tribe"
 Bayonetta 2,Nintendo Switch,"PlatinumGames, Bee Tribe, Imagica Digitalscape Co., Ltd."
+Bloodstained: Curse of the Moon,Nintendo Switch,"Inti Creates Co., Ltd."
 Dark Souls,Nintendo Switch,"FromSoftware, Inc., Virtuos Ltd., QLOC"
+Darkest Dungeon,Nintendo Switch,Red Hook Studios
+InnerSpace,Nintendo Switch,PolyKnight Games
+Into the Breach,Nintendo Switch,Subset Games
+Lumines: Puzzle Fusion,Nintendo Switch,"Q Entertainment, Resonair"
+Not a Hero,Nintendo Switch,Roll7
 "Pokemon: Let's Go, Pikachu!/Eevee!",Nintendo Switch,"Game Freak, Inc."
 Puyo Puyo Tetris,Nintendo Switch,"Sonic Team, The Tetris Company, Bitbaboon, O-TWO"
 Salt and Sanctuary,Nintendo Switch,"Ska Studios, LLC"
+Stardew Valley,Nintendo Switch,"ConcernedApe, Sickhead Games, AGM Playism, Chucklefish Games"
 Super Mario Odyssey,Nintendo Switch,"Nintendo EPD, 1-UP Studio"
 Super Smash Bros. Ultimate,Nintendo Switch,"Sora, Bandai Namco Entertainment"
+The Jackbox Party Pack 3,Nintendo Switch,Jackbox Games
+The Jackbox Party Pack 4,Nintendo Switch,Jackbox Games
 The Legend of Zelda: Breath of the Wild,Nintendo Switch,"Nintendo EPD, Monolith Software, Inc., SRD Co. Ltd."
 10000000,PC,EightyEight Games
 10 Second Ninja,PC,Four Circle Interactive
 A Valley Without Wind,PC,Arcen Games
 A Valley Without Wind 2,PC,Arcen Games
 Abyss Odyssey,PC,ACE Team
-Abzu,PC,Giant Squid
+Abzû,PC,Giant Squid
 Ace of Spades,PC,"Jagex Ltd., Outsource Media (OMUK)"
 Age of Mythology,PC,"Ensemble Studios, Westlake Interactive, SkyBox Labs"
 AI War: Fleet Command,PC,Arcen Games
@@ -219,6 +233,7 @@ Mercenary Kings,PC,Tribute Games
 Metro 2033,PC,4A Games
 Metro: Last Light,PC,4A Games
 Miasmata,PC,IonFx Studios
+Minit,PC,Not Found
 Minit,PC,Not Found
 Mirror's Edge,PC,DICE
 Monaco: What's Yours Is Mine,PC,Pocketwatch Games
@@ -411,10 +426,14 @@ Jak and Daxter Collection,PlayStation 3,"Naughty Dog, Inc., Mass Media, Inc."
 JoJo's Bizarre Adventure: All Star Battle,PlayStation 3,"CyberConnect2 Co., Ltd."
 Journey,PlayStation 3,"thatgamecompany, SIE Santa Monica Studio"
 Metal Gear Solid 4: Guns of the Patriots,PlayStation 3,"Kojima Productions, 8-4, Ltd., Imagica Digitalscape Co., Ltd."
+Ni no Kuni: Wrath of the White Witch,PlayStation 3,"Level-5 Inc., Studio Ghibli, Digital Hearts Co., Ltd. , Shloc Ltd."
 Ratchet & Clank Collection,PlayStation 3,"Idol Minds L.L.C., Insomniac Games, Mass Media, Inc."
 The Last of Us,PlayStation 3,"Naughty Dog, Inc., Virtuos Ltd."
 The Sly Collection,PlayStation 3,"Sanzaru Games, Sucker Punch"
+Tokyo Jungle,PlayStation 3,"SIE Japan Studio, Crispy's!, Playstation C.A.M.P"
 Bloodborne,PlayStation 4,"FromSoftware, Inc., SIE Japan Studio"
+Bound,PlayStation 4,Plastic
+Broforce,PlayStation 4,Free Lives
 Burnout Paradise,PlayStation 4,Criterion Games
 Danganronpa 1•2 Reload,PlayStation 4,Spike Chunsoft
 Dark Souls II: Scholar of the First Sin,PlayStation 4,"FromSoftware, Inc."
@@ -424,20 +443,26 @@ Dishonored 2,PlayStation 4,Arkane Studios SA
 Dishonored: Death of the Outsider,PlayStation 4,Arkane Studios SA
 Doom,PlayStation 4,"id Software, Certain Affinity, Escalation Studios, Panic Button"
 Dragon Age: Inquisition,PlayStation 4,BioWare
+Furi,PlayStation 4,The Game Bakers
 God of War,PlayStation 4,SIE Santa Monica Studio
 Hitman,PlayStation 4,IO Interactive
 Hitman 2,PlayStation 4,IO Interactive
 Horizon Zero Dawn,PlayStation 4,Guerrilla Games
+Lovers in a Dangerous Spacetime,PlayStation 4,Asteroid Base
+Mass Effect: Andromeda,PlayStation 4,"BioWare Montreal, BioWare, BioWare Austin"
 Metal Gear Solid V: The Phantom Pain,PlayStation 4,"Kojima Productions, Konami Los Angeles Studio"
 NieR:Automata,PlayStation 4,"PlatinumGames, 8-4, Ltd."
 Nioh,PlayStation 4,Team Ninja
 Okami,PlayStation 4,"Clover Studio, Hexa Drive, Ready at Dawn Studios, LLC, Imagica Digitalscape Co., Ltd."
+Outlast,PlayStation 4,Red Barrels
 Overwatch,PlayStation 4,Blizzard Entertainment
 Persona 5,PlayStation 4,P Studio
 Prey,PlayStation 4,Arkane Studios SA
 The Evil Within 2,PlayStation 4,Tango Gameworks
 The Witcher 3: Wild Hunt,PlayStation 4,CD Projekt Red
 Titanfall 2,PlayStation 4,Respawn Entertainment
+Transformers: Devastation,PlayStation 4,PlatinumGames
+Tropico 5,PlayStation 4,"Haemimont Games AD, Outsource Media (OMUK)"
 Until Dawn,PlayStation 4,Supermassive Games
 Valkyria Chronicles,PlayStation 4,"Basiscape, SEGA Wow Inc., Little Stone Software, inbound, Media.Vision Entertainment Inc., O-TWO"
 Windjammers,PlayStation 4,"Data East Corporation, DotEmu"
@@ -448,6 +473,9 @@ Yakuza 0,PlayStation 4,"Ryu ga Gotoku Studio, inbound, Atlus U.S.A., Inc."
 Yakuza 6: The Song of Life,PlayStation 4,Ryu ga Gotoku Studio
 Yakuza Kiwami,PlayStation 4,"Ryu ga Gotoku Studio, Atlus U.S.A., Inc."
 Yakuza Kiwami 2,PlayStation 4,Ryu ga Gotoku Studio
+God Hand,PlayStation Network (PS3),Clover Studio
+Persona 2: Eternal Punishment,PlayStation Network (PS3),"Atlus Co., Ltd."
+Shin Megami Tensei: Persona 3 FES,PlayStation Network (PS3),"Atlus Co., Ltd."
 MadWorld,Wii,PlatinumGames
 Metroid Prime 3: Corruption,Wii,"Retro Studios, Nintendo SPD Group No.3"
 No More Heroes,Wii,"Grasshopper Manufacture inc., Feel Plus, Shirogumi, Inc."
@@ -457,19 +485,25 @@ Super Mario Galaxy 2,Wii,"Nintendo EAD Tokyo Group No.2, Imagica Digitalscape Co
 Super Paper Mario,Wii,"Intelligent Systems Co., Ltd., Nintendo SPD Group No.3"
 Wii Sports,Wii,Nintendo EAD
 Jade Empire,Xbox,"BioWare, LTI Gray Matter"
+Alan Wake,Xbox 360,"Remedy Entertainment Ltd., Nitro Games, Inc."
+Alpha Protocol,Xbox 360,Obsidian Entertainment
 Anarchy Reigns,Xbox 360,PlatinumGames
 Assassin's Creed,Xbox 360,Ubisoft Montreal Studios
 Assassin's Creed III,Xbox 360,Ubisoft Montreal Studios
+Asura's Wrath,Xbox 360,"CyberConnect2 Co., Ltd."
 Batman: Arkham Asylum,Xbox 360,Rocksteady Studios Ltd
 Batman: Arkham City,Xbox 360,Rocksteady Studios Ltd
 Bayonetta,Xbox 360,"PlatinumGames, Bee Tribe"
 BioShock 2,Xbox 360,"2K Marin, Digital Extremes, Arkane Studios SA, 2K Australia, 2K China, Darkside Game Studios, Iron Galaxy Studios, Feral Interactive"
 BioShock Infinite,Xbox 360,"Irrational Games, 2K Australia, Darkside Game Studios"
 Blitz: The League II,Xbox 360,"Twisted Pixel Games, Midway Games"
+Borderlands 2,Xbox 360,Gearbox Software LLC
 Brutal Legend,Xbox 360,"Double Fine Productions, Inc."
+Burnout Paradise,Xbox 360,Criterion Games
 Condemned: Criminal Origins,Xbox 360,"Monolith Productions, Inc."
 Crackdown,Xbox 360,Realtime Worlds Ltd.
 Crackdown 2,Xbox 360,Ruffian Games
+Dante's Inferno,Xbox 360,"Visceral Games, Behaviour Interactive"
 Dark Messiah of Might and Magic: Elements,Xbox 360,"Arkane Studios SA, Ubisoft Annecy Studios, Sonic Mayhem"
 Dark Souls,Xbox 360,"FromSoftware, Inc., Virtuos Ltd., QLOC"
 Dead Rising,Xbox 360,"Capcom, Capcom Production Studio 1, QLOC"
@@ -477,18 +511,24 @@ Dead Rising 2,Xbox 360,Capcom Game Studios Vancouver
 Dead Space,Xbox 360,Visceral Games
 Dead Space 2,Xbox 360,Visceral Games
 Deadly Premonition,Xbox 360,Access Games
+Dishonored,Xbox 360,"Arkane Studios SA, Zenimax Media Inc"
 DJ Hero 2,Xbox 360,"Ubisoft Leamington, Fireproof Studios"
+Dragon Age II,Xbox 360,BioWare
 Dragon Age: Origins,Xbox 360,"BioWare, Edge of Reality, Ltd."
 Dragon's Dogma: Dark Arisen,Xbox 360,"Capcom, 8-4, Ltd., QLOC"
+El Shaddai: Ascension of the Metatron,Xbox 360,"UTV Ignition Entertainment, Bee Tribe, Lancarse"
+Eternal Sonata,Xbox 360,"tri-Crescendo Inc., 8-4, Ltd."
 Fallout 3,Xbox 360,Bethesda Game Studios
 Fallout: New Vegas,Xbox 360,"Obsidian Entertainment, QLOC, Zenimax Media Inc"
 Far Cry 2,Xbox 360,Ubisoft Montreal Studios
 Far Cry 3,Xbox 360,"Ubisoft Montreal Studios, Massive Entertainment"
 Gears of War,Xbox 360,"Epic Games, The Coalition, Psyonix Studios"
 Gears of War 2,Xbox 360,Epic Games
+Gears of War: Judgment,Xbox 360,"Epic Games, People Can Fly, Darkside Game Studios"
 Grand Theft Auto IV,Xbox 360,Rockstar North
 Grand Theft Auto V,Xbox 360,Rockstar North
 Halo: Reach,Xbox 360,Bungie
+Hitman: Absolution,Xbox 360,"IO Interactive, Nixxes Software BV, Square Visual Works"
 Just Cause 2,Xbox 360,Avalanche Studios
 Kingdoms of Amalur: Reckoning,Xbox 360,"Big Huge Games, 38 Studios"
 L.A. Noire,Xbox 360,"Team Bondi, Rockstar Leeds, Virtuos Ltd."
@@ -499,9 +539,11 @@ Mass Effect,Xbox 360,"BioWare, Edge of Reality, Ltd., Demiurge Studios"
 Mass Effect 2,Xbox 360,"BioWare, Sonic Mayhem"
 Mass Effect 3,Xbox 360,"BioWare, Straight Right, Sonic Mayhem, Psyonix Studios"
 Metal Gear Rising: Revengeance,Xbox 360,"PlatinumGames, Kojima Productions, 8-4, Ltd., TransGaming Technologies, Digital Hearts Co., Ltd. "
+Metal Gear Solid V: Ground Zeroes,Xbox 360,Kojima Productions
 Mirror's Edge,Xbox 360,DICE
 Mortal Kombat,Xbox 360,"NetherRealm Studios, Sonic Mayhem, High Voltage Software, Inc."
 Nier,Xbox 360,"cavia inc., 8-4, Ltd."
+Persona 4 Arena,Xbox 360,"Arc System Works Co., Ltd., Atlus Co., Ltd., Digital Hearts Co., Ltd. "
 Portal 2,Xbox 360,Valve Corporation
 Prince of Persia,Xbox 360,Ubisoft Montreal Studios
 Prototype,Xbox 360,"Radical Entertainment Inc., Sonic Mayhem"
@@ -509,6 +551,7 @@ Red Faction: Guerrilla,Xbox 360,"Deep Silver Volition, Inc."
 Resident Evil 5,Xbox 360,"Capcom, AAC Stunts, QLOC, Bee Tribe"
 Rocksmith,Xbox 360,"Ubisoft San Francisco, Ubisoft Shanghai Studios, 8-4, Ltd."
 Sleeping Dogs,Xbox 360,United Front Games
+Sniper Elite V2,Xbox 360,Rebellion
 Soulcalibur V,Xbox 360,"Project Soul, CyberConnect2 Co., Ltd., 8-4, Ltd., Bee Tribe, Imagica Digitalscape Co., Ltd., O-TWO"
 The Chronicles of Riddick: Assault on Dark Athena,Xbox 360,"Starbreeze Studios AB, Tigon Studios"
 The Darkness,Xbox 360,Starbreeze Studios AB
@@ -518,10 +561,32 @@ The Elder Scrolls V: Skyrim,Xbox 360,"Bethesda Game Studios, Iron Galaxy Studios
 The Orange Box,Xbox 360,"Valve Corporation, EA Bright Light"
 The Saboteur,Xbox 360,Pandemic Studios
 The Witcher 2: Assassins of Kings,Xbox 360,CD Projekt Red
+The Wolf Among Us,Xbox 360,"Telltale Games, Outsource Media (OMUK)"
 Ultimate Marvel vs. Capcom 3,Xbox 360,"Capcom, Eighting Co., Ltd., Marvel Studios"
+Ultra Street Fighter IV,Xbox 360,"Dimps Corporation, Capcom"
+Vanquish,Xbox 360,"PlatinumGames, Bee Tribe, Little Stone Software"
 "Warhammer 40,000: Space Marine",Xbox 360,"Relic Entertainment, Sonic Mayhem"
 Way of the Samurai 3,Xbox 360,Acquire
 WWE All Stars,Xbox 360,THQ San Diego
 XCOM: Enemy Within,Xbox 360,Firaxis Games
 You Don't Know Jack,Xbox 360,"Jackbox Games, Iron Galaxy Studios"
 Zone of the Enders HD Collection,Xbox 360,"Kojima Productions, High Voltage Software, Inc., Hexa Drive"
+BattleBlock Theater,Xbox 360 Games Store,The Behemoth
+Dead Rising 2: Case Zero,Xbox 360 Games Store,Capcom Game Studios Vancouver
+Defense Grid: The Awakening,Xbox 360 Games Store,"Shadows in Darkness, Inc., Hidden Path Entertainment"
+Duke Nukem 3D,Xbox 360 Games Store,"3D Realms Entertainment, Eurocom Entertainment Software, Tec Toy Industria de Brinquedos S.A., Lobotomy Software, Inc."
+Far Cry 3: Blood Dragon,Xbox 360 Games Store,Ubisoft Montreal Studios
+Guardian Heroes,Xbox 360 Games Store,Treasure
+Hexic,Xbox 360 Games Store,Carbonated Games
+Iron Brigade,Xbox 360 Games Store,"Double Fine Productions, Inc."
+Jet Grind Radio,Xbox 360 Games Store,"Vicarious Visions, Smilebit, BlitWorks"
+Lara Croft and the Guardian of Light,Xbox 360 Games Store,"Crystal Dynamics, Inc., Nixxes Software BV"
+Magic: The Gathering - Duels of the Planeswalkers 2013,Xbox 360 Games Store,Stainless Games Ltd.
+Might & Magic: Clash of Heroes,Xbox 360 Games Store,"Capy, Tag Games"
+Serious Sam: Double D,Xbox 360 Games Store,"Mommy's Best Games, Inc."
+Serious Sam: The First Encounter,Xbox 360 Games Store,Croteam Ltd.
+Shadow Complex,Xbox 360 Games Store,"Epic Games, Chair Entertainment"
+Sonic the Hedgehog 2,Xbox 360 Games Store,"Sonic Team, Christian Whitehead"
+Street Fighter II' Turbo: Hyper Fighting,Xbox 360 Games Store,"Capcom, Sensory Sweep Studios"
+Street Fighter III: 3rd Strike,Xbox 360 Games Store,"Capcom, Iron Galaxy Studios"
+Virtua Fighter 5 Final Showdown,Xbox 360 Games Store,SEGA-AM2
