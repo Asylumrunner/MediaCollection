@@ -1,4 +1,4 @@
-Name, Platform, Developer
+Title,Platform,Developer
 10000000,PC,EightyEight Games
 10 Second Ninja,PC,Four Circle Interactive
 A Valley Without Wind,PC,Arcen Games
@@ -31,6 +31,10 @@ Batman: Arkham Asylum,Xbox 360,Rocksteady Studios Ltd
 Batman: Arkham City,PC,Rocksteady Studios Ltd
 Batman: Arkham City,Xbox 360,Rocksteady Studios Ltd
 BattleBlock Theater,Xbox 360 Games Store,The Behemoth
+Battlefield 1,PC,DICE
+Battlefield 3,PC,DICE
+Battlefield 4,PC,DICE
+Battlefield: Bad Company 2,PC,DICE
 Bayonetta,Nintendo Switch,"PlatinumGames, Bee Tribe"
 Bayonetta,Xbox 360,"PlatinumGames, Bee Tribe"
 Bayonetta 2,Nintendo Switch,"PlatinumGames, Bee Tribe, Imagica Digitalscape Co., Ltd."
@@ -370,6 +374,7 @@ Paratopic,PC,Arbitrary Metric
 Pathologic,PC,Ice-Pick Lodge
 Payday 2,PC,"Overkill Software, LionGameLion, Sumo Digital Ltd."
 Payday: The Heist,PC,Overkill Software
+Peggle,PC,"PopCap Games, Inc., Q Entertainment, Magmic Inc., Vega Mobile"
 Persona 2: Eternal Punishment,PlayStation Network (PS3),"Atlus Co., Ltd."
 Persona 4 Arena,Xbox 360,"Arc System Works Co., Ltd., Atlus Co., Ltd., Digital Hearts Co., Ltd. "
 Persona 5,PlayStation 4,P Studio
@@ -461,6 +466,7 @@ Spelunky,PC,"Mossmouth, LLC, BlitWorks"
 Spintires,PC,"oovee, Oovee Game Studios"
 Spoiler Alert,PC,Megafuzz
 SSX 3,PlayStation 2,"EA Canada, EA Sports BIG"
+Star Wars Battlefront II,PC,"Criterion Games, Motive Studios, DICE"
 Star Wars: Knights of the Old Republic,PC,"BioWare, Aspyr Media, Inc."
 Star Wars: Knights of the Old Republic II - The Sith Lords,PC,"Obsidian Entertainment, Aspyr Media, Inc."
 Stardew Valley,Nintendo Switch,"ConcernedApe, Sickhead Games, AGM Playism, Chucklefish Games"
@@ -536,6 +542,8 @@ Thief,PC,"Eidos-Montréal, Nixxes Software BV, Square Visual Works"
 This War of Mine,PC,11 Bit Studios
 Thomas Was Alone,PC,"Curve Digital, Mike Bithell Games"
 Tidalis,PC,Arcen Games
+Titanfall,PC,"Respawn Entertainment, Bluepoint Games"
+Titanfall 2,PC,Respawn Entertainment
 Titanfall 2,PlayStation 4,Respawn Entertainment
 Tokyo Jungle,PlayStation 3,"SIE Japan Studio, Crispy's!, Playstation C.A.M.P"
 Tom Clancy's Rainbow Six Siege,PC,Ubisoft Montreal Studios
@@ -572,6 +580,7 @@ Warlock: Master of the Arcane,PC,1C: Ino-Co
 Warmachine: Tactics,PC,White Moon Dreams
 Wasteland,PC,Interplay Entertainment Corp.
 Wasteland 2,PC,"Obsidian Entertainment, inXile Entertainment, Inc."
+Watch Dogs 2,PlayStation 4,Ubisoft Montreal Studios
 Watch Dogs 2,PlayStation 4,Ubisoft Montreal Studios
 Way of the Samurai,PlayStation 2,Acquire
 Way of the Samurai 3,Xbox 360,Acquire
